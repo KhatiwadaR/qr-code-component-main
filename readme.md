@@ -8,7 +8,7 @@ This project focuses on building a clean UI using HTML and CSS and improving lay
 
 ## 📸 Screenshot
 
-![QR Code Component](./images/screenshot.jpg)
+![QR Code Component](./screenshot.png)
 
 ---
 
